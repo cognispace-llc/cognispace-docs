@@ -28,3 +28,8 @@ dist/
 .vitepress/cache/
 docs/.vitepress/cache/
 docs/.vitepress/dist/
+
+# VitePress
+docs/.vitepress/dist/
+docs/.vitepress/cache/
+node_modules/
